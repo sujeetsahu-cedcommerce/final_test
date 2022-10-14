@@ -1,0 +1,11 @@
+.singleProducts {
+  border: 1px solid black;
+  width: 60%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.productButton {
+  /* border: 1px solid black; */
+  /* width: 50%; */
+}
